@@ -1,2 +1,3 @@
 hellow!git!
 hogehoge
+init
